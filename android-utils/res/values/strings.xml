@@ -1,5 +1,14 @@
 <resources>
 
     <string name="app_name">android-utils</string>
+    
+     <!-- Shown as the title of the user's schedule for today -->
+    <string name="day_title_today">今天</string>
+
+    <!-- Shown as the title of the user's schedule for tomorrow -->
+    <string name="day_title_tomorrow">明天</string>
+
+    <!-- Shown as the title of the user's schedule for yesterday -->
+    <string name="day_title_yesterday">昨天</string>
 
 </resources>
